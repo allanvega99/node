@@ -7,7 +7,3 @@ res.send("OK")
 
 app.listen(process.env.PORT || 5000);
 module.exports = app;
-
-<script>
-document.write('Hola');
-</script>
